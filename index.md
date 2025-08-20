@@ -1,12 +1,12 @@
 ---
 layout: base
-title: I'm [Your Full Name]
+title: I'm Sathwik Kintada
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is [Your Full Name].
+Hi! My name is Sathwik Kintada.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
@@ -15,7 +15,12 @@ Hi! My name is [Your Full Name].
 | Scrummer     | Avantika | github.com/avantika/student         | downstream (fork)     | student   |
 | Scrummer     | Aadit    | github.com/aaadit/student           | downstream (fork)     | student   |
 
-
+| Name      | Repo Name | Mascot
+|----------|-----------|-------|
+| Sathwik  |student   | 🥷🏿|
+| Dhyan    | student   |🐺|
+| Lucas    | student   |🙈|
+| Arnav    | student   |🐼|
 ## Links to Learning
 
 ### Development Environment
