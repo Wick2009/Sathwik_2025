@@ -15,13 +15,14 @@ Hi! My name is Sathwik Kintada.
 | Scrummer     | Avantika | github.com/avantika/student         | downstream (fork)     | student   |
 | Scrummer     | Aadit    | github.com/aaadit/student           | downstream (fork)     | student   |
 
-| Name      | Repo Name | Mascot |
-|----------|-----------|-------|
-| Sathwik  | student   |🥷🏿|
-| Dhyan    | student   |🐺|
-| Lucas    | student   |🙈|
-| Arnav    | student   |🐼|
-| Adhav    | student   |£|
+| Name    | Repo Name | Mascot |
+|---------|-----------|--------|
+| Sathwik | student   | 🥷🏿    |
+| Dhyan   | student   | 🐺     |
+| Lucas   | student   | 🙈     |
+| Arnav   | student   | 🐼     |
+| Adhav   | student   | 💂     |
+
 ## Links to Learning
 
 ### Development Environment
